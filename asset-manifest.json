@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hyejinportpolio/static/css/main.a604a005.css",
-    "main.js": "/hyejinportpolio/static/js/main.b6f7ce7b.js",
+    "main.js": "/hyejinportpolio/static/js/main.bdc70879.js",
     "static/js/453.affda03a.chunk.js": "/hyejinportpolio/static/js/453.affda03a.chunk.js",
     "static/media/careerBackground.svg": "/hyejinportpolio/static/media/careerBackground.674f2ce273f846a00a57bb529814cb22.svg",
     "static/media/introBackground.svg": "/hyejinportpolio/static/media/introBackground.64785e7798dc13534123779000987234.svg",
@@ -13,11 +13,11 @@
     "static/media/home.svg": "/hyejinportpolio/static/media/home.2deb6bffe9ebd78d2ba59c5f2178390c.svg",
     "static/media/picture.svg": "/hyejinportpolio/static/media/picture.a8c44ec6e2a23d7e82b4fcb2314a0035.svg",
     "main.a604a005.css.map": "/hyejinportpolio/static/css/main.a604a005.css.map",
-    "main.b6f7ce7b.js.map": "/hyejinportpolio/static/js/main.b6f7ce7b.js.map",
+    "main.bdc70879.js.map": "/hyejinportpolio/static/js/main.bdc70879.js.map",
     "453.affda03a.chunk.js.map": "/hyejinportpolio/static/js/453.affda03a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a604a005.css",
-    "static/js/main.b6f7ce7b.js"
+    "static/js/main.bdc70879.js"
   ]
 }
