@@ -1,23 +1,38 @@
 {
   "files": {
     "main.css": "/hyejinportpolio/static/css/main.a604a005.css",
-    "main.js": "/hyejinportpolio/static/js/main.bdc70879.js",
+    "main.js": "/hyejinportpolio/static/js/main.ce0c29b4.js",
     "static/js/453.affda03a.chunk.js": "/hyejinportpolio/static/js/453.affda03a.chunk.js",
+    "static/media/myPicture.jpg": "/hyejinportpolio/static/media/myPicture.49be75cfddb1a925be88.jpg",
     "static/media/careerBackground.svg": "/hyejinportpolio/static/media/careerBackground.674f2ce273f846a00a57bb529814cb22.svg",
+    "static/media/p1Thum.png": "/hyejinportpolio/static/media/p1Thum.d2bf7030662e913fd0df.png",
+    "static/media/p2Thum.png": "/hyejinportpolio/static/media/p2Thum.93744397ddd71d7540ab.png",
+    "static/media/v1Detail.jpg": "/hyejinportpolio/static/media/v1Detail.5157ffbba8b0251dd6fe.jpg",
+    "static/media/p5Thum.png": "/hyejinportpolio/static/media/p5Thum.b539ca3a69cfb06f2d0c.png",
+    "static/media/p4Thum.png": "/hyejinportpolio/static/media/p4Thum.a09da465ee352c56d187.png",
+    "static/media/v5Thum.png": "/hyejinportpolio/static/media/v5Thum.cc17138ebde0c07955a8.png",
+    "static/media/v2Thum.png": "/hyejinportpolio/static/media/v2Thum.eea25c80e06f0699f364.png",
+    "static/media/v1Thum.png": "/hyejinportpolio/static/media/v1Thum.f8ce4ffab1d59fa9642f.png",
+    "static/media/p6Thum.png": "/hyejinportpolio/static/media/p6Thum.78fd69116481b431dea6.png",
+    "static/media/v4Thum.png": "/hyejinportpolio/static/media/v4Thum.f9bbcadcb303bda48236.png",
+    "static/media/v7Thum.png": "/hyejinportpolio/static/media/v7Thum.5ec77c41b5c7cd9d15d6.png",
+    "static/media/v6Thum.png": "/hyejinportpolio/static/media/v6Thum.941dfe5e173333784bb4.png",
+    "static/media/p3Thum.png": "/hyejinportpolio/static/media/p3Thum.86e3ada1564fa63cd428.png",
+    "static/media/v8Thum.png": "/hyejinportpolio/static/media/v8Thum.1fc97e1ccc13cd9ba7a8.png",
     "static/media/introBackground.svg": "/hyejinportpolio/static/media/introBackground.64785e7798dc13534123779000987234.svg",
-    "static/media/ex.jpeg": "/hyejinportpolio/static/media/ex.c2cfbd3f716719dd0e4d.jpeg",
     "static/media/mainBackground.svg": "/hyejinportpolio/static/media/mainBackground.6b123e0dc14620974459df414cbc61ec.svg",
+    "static/media/v3Thum.png": "/hyejinportpolio/static/media/v3Thum.c108df93d68faf616d3b.png",
     "static/media/logo.svg": "/hyejinportpolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "static/media/flower.svg": "/hyejinportpolio/static/media/flower.16599870bb139b8aedc1caf8cefa6c53.svg",
     "index.html": "/hyejinportpolio/index.html",
     "static/media/home.svg": "/hyejinportpolio/static/media/home.2deb6bffe9ebd78d2ba59c5f2178390c.svg",
     "static/media/picture.svg": "/hyejinportpolio/static/media/picture.a8c44ec6e2a23d7e82b4fcb2314a0035.svg",
     "main.a604a005.css.map": "/hyejinportpolio/static/css/main.a604a005.css.map",
-    "main.bdc70879.js.map": "/hyejinportpolio/static/js/main.bdc70879.js.map",
+    "main.ce0c29b4.js.map": "/hyejinportpolio/static/js/main.ce0c29b4.js.map",
     "453.affda03a.chunk.js.map": "/hyejinportpolio/static/js/453.affda03a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a604a005.css",
-    "static/js/main.bdc70879.js"
+    "static/js/main.ce0c29b4.js"
   ]
 }
